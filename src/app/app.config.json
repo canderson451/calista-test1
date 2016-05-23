@@ -1,0 +1,7 @@
+{
+  "appname": "calista-test1",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "E1EC0B33-51AE-41CF-A6DC-2E68E893DA5C",
+  "buyerid": "calista-buyertesta",
+  "environment": "prod"
+}
